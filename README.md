@@ -2,8 +2,9 @@
 const Trapper05 = {
     Pronouns: ['He', 'Him', 'Trapper'],
     Programmer: true,
-    Learning: ['Discord.js' 'Javascript', 'Html', 'Css'],
+    Languages: ['Discord.js' 'Javascript', 'Html', 'Css'],
     Gamer: true,
+    Games: ['Fivem', 'Rainbow Six Siege', 'Minecraft'],
     Streamer: true,
     Links: [
         Twitch: 'https://www.twitch.tv/ttrapper05',
