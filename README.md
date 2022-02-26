@@ -1,8 +1,8 @@
 ```javascript
 const Trapper05 = {
-    Pronouns: ['He', 'him', 'Trapper'],
+    Pronouns: ['He', 'Him', 'Trapper'],
     Programmer: true,
-    Learning: ['Discord.js' 'Javascript', 'html', 'css'],
+    Learning: ['Discord.js' 'Javascript', 'Html', 'Css'],
     Gamer: true,
     Streamer: true,
     Links: [
